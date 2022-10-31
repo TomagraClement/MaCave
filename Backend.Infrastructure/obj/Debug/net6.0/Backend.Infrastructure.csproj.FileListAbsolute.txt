@@ -1,0 +1,12 @@
+C:\Users\c.tomagra\source\repos\MaCave\Backend.Infrastructure\bin\Debug\net6.0\Backend.Infrastructure.deps.json
+C:\Users\c.tomagra\source\repos\MaCave\Backend.Infrastructure\bin\Debug\net6.0\Backend.Infrastructure.dll
+C:\Users\c.tomagra\source\repos\MaCave\Backend.Infrastructure\bin\Debug\net6.0\Backend.Infrastructure.pdb
+C:\Users\c.tomagra\source\repos\MaCave\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\c.tomagra\source\repos\MaCave\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c.tomagra\source\repos\MaCave\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\c.tomagra\source\repos\MaCave\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.AssemblyInfo.cs
+C:\Users\c.tomagra\source\repos\MaCave\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\c.tomagra\source\repos\MaCave\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.dll
+C:\Users\c.tomagra\source\repos\MaCave\Backend.Infrastructure\obj\Debug\net6.0\refint\Backend.Infrastructure.dll
+C:\Users\c.tomagra\source\repos\MaCave\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.pdb
+C:\Users\c.tomagra\source\repos\MaCave\Backend.Infrastructure\obj\Debug\net6.0\ref\Backend.Infrastructure.dll

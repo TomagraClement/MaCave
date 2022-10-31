@@ -1,0 +1,12 @@
+C:\Users\c.tomagra\source\repos\MaCave\Backend.Application\bin\Debug\net6.0\Backend.Application.deps.json
+C:\Users\c.tomagra\source\repos\MaCave\Backend.Application\bin\Debug\net6.0\Backend.Application.dll
+C:\Users\c.tomagra\source\repos\MaCave\Backend.Application\bin\Debug\net6.0\Backend.Application.pdb
+C:\Users\c.tomagra\source\repos\MaCave\Backend.Application\obj\Debug\net6.0\Backend.Application.csproj.AssemblyReference.cache
+C:\Users\c.tomagra\source\repos\MaCave\Backend.Application\obj\Debug\net6.0\Backend.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c.tomagra\source\repos\MaCave\Backend.Application\obj\Debug\net6.0\Backend.Application.AssemblyInfoInputs.cache
+C:\Users\c.tomagra\source\repos\MaCave\Backend.Application\obj\Debug\net6.0\Backend.Application.AssemblyInfo.cs
+C:\Users\c.tomagra\source\repos\MaCave\Backend.Application\obj\Debug\net6.0\Backend.Application.csproj.CoreCompileInputs.cache
+C:\Users\c.tomagra\source\repos\MaCave\Backend.Application\obj\Debug\net6.0\Backend.Application.dll
+C:\Users\c.tomagra\source\repos\MaCave\Backend.Application\obj\Debug\net6.0\refint\Backend.Application.dll
+C:\Users\c.tomagra\source\repos\MaCave\Backend.Application\obj\Debug\net6.0\Backend.Application.pdb
+C:\Users\c.tomagra\source\repos\MaCave\Backend.Application\obj\Debug\net6.0\ref\Backend.Application.dll
