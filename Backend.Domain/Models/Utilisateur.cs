@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace Backend.Domain.Models
 {
-    public class Cave : BaseModel
+    public class Utilisateur : BaseModel
     {
-        public List<Bouteille> Bouteilles { get; set; } = new List<Bouteille>();
+        public string Name { get; set; }
+        
     }
 }
